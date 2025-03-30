@@ -1,5 +1,5 @@
 # 💫 About Me:
-At some points, I just realized that no programming languages matter at all, as long as you can create what you want. 
+At some point, I just realized that programming languages don’t really matter, as long as you can build what you want.
 
 
 ## 🌐 Socials:
